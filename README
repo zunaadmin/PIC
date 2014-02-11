@@ -1,0 +1,10 @@
+Library for PIC is free software for PIC MCU's
+
+For Copying and licence information please see 'COPYING' and 'LICENCE' file
+
+Development Tools Required
+Toolchain    : XC-8 Compiler or SDCC Compiler (Opensource)
+Text Editor  : Programmer's notepad Prefered (Use any text editor) or Use AMPLABX (An IDE from Microchip)
+Build Tool   : GNU Make 3.81 (Opensource software build automation tool for C/C++ Developers)
+Flasher      : PicKit 2 (Programming tool from microchip)
+
